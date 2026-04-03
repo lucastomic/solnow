@@ -1,6 +1,8 @@
 [submodule "back"]
 	path = back
 	url = git@github.com:lucastomic/solnow-back.git
+	branch = dev
 [submodule "front"]
 	path = front
 	url = git@github.com:lucastomic/solnow-front.git
+	branch = dev
